@@ -1,0 +1,15 @@
+{
+	"name": "store1",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5a7d7c92-316e-4187-b723-e17185d5a996",
+		"tenantId": "e4e6c12a-b02a-48b7-ac93-fcc131c387b6"
+	}
+}
